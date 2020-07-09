@@ -2,7 +2,7 @@
 
  **🔭 I’m currently working on**
 - the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
-- a Chrome extension to solve a problem I've had
+- a Chrome extension details TBA
 - contributing to open source projects
 
  **🌱 I’m currently learning** 
