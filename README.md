@@ -1,4 +1,32 @@
-### Hi there 👋
+## Hi 👋 I'm Courtney
+
+ **🔭 I’m currently working on**
+- the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
+- a Chrome extension to solve a problem I've had
+- contributing to open source projects
+
+ **🌱 I’m currently learning** 
+- Golang!
+- continuing to work on my AWS skills
+
+**💻 skills**
+- JavaScript, TypeScript, Java, AWS certified, SQL, NoSQL, Google Cloud, Firebase
+
+**👯 I’m looking to collaborate on**
+- open to anything that utilizes my skills, but I am passionate about health and medicine
+
+<!-- **🤔 I’m looking for help with:** -->
+
+<!-- **💬 Ask me about** -->
+
+**📫  How to reach me** 
+- celandau@gmail.com
+
+**😄 Pronouns** 
+- she/her
+
+<!-- **⚡ Fun fact** 
+-  -->
 
 <!--
 **clandau/clandau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
