@@ -12,7 +12,7 @@
 - continuing to work on my AWS skills
 
 ### 💻 skills
-- JavaScript, TypeScript, Java, AWS certified, SQL, NoSQL, Google Cloud, Firebase
+- JavaScript, TypeScript, Java, AWS certified, SQL, NoSQL, Google Cloud, Firebase, database design, project planning
 
 ### 👯 I’m looking to collaborate on
 - open to anything that utilizes my skills, but I am passionate about health and medicine
