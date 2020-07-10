@@ -1,28 +1,30 @@
 ## Hi 👋 I'm Courtney
 
- **🔭 I’m currently working on**
-- the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
-- a Chrome extension details TBA
-- contributing to open source projects
+ ### 🔭 I’m currently working on
+- **🕒 day job** 
+  - the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
+- **🌙 for fun**
+  - a Chrome extension details TBA
+  - contributing to open source projects
 
- **🌱 I’m currently learning** 
+ ### 🌱 I’m currently learning
 - Golang!
 - continuing to work on my AWS skills
 
-**💻 skills**
+### 💻 skills
 - JavaScript, TypeScript, Java, AWS certified, SQL, NoSQL, Google Cloud, Firebase
 
-**👯 I’m looking to collaborate on**
+### 👯 I’m looking to collaborate on
 - open to anything that utilizes my skills, but I am passionate about health and medicine
 
 <!-- **🤔 I’m looking for help with:** -->
 
 <!-- **💬 Ask me about** -->
 
-**📫  How to reach me** 
+### 📫  How to reach me
 - celandau@gmail.com
 
-**😄 Pronouns** 
+### 😄 Pronouns
 - she/her
 
 <!-- **⚡ Fun fact** 
