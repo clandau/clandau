@@ -1,5 +1,8 @@
 ## Hi 👋 I'm Courtney
 
+### 😀 About me
+I'm a full-stack software engineer in PA, USA. I've got a master's degree in Information Systems and experience in healthcare and education technology. 
+
  ### 🔭 I’m currently working on
 - **🕒 day job** 
   - the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
@@ -8,7 +11,7 @@
   - contributing to open source projects
 
  ### 🌱 I’m currently learning
-- Golang!
+- Golang
 - continuing to work on my AWS skills
 
 ### 💻 skills
