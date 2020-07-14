@@ -1,23 +1,23 @@
-## Hi 👋 I'm Courtney
+## Hi 👋  I'm Courtney
 
-### 😀 About me
+### 😀  About me
 I'm a full-stack software engineer in PA, USA. I've got a master's degree in Information Systems and experience in healthcare and education technology. 
 
- ### 🔭 I’m currently working on
-- **🕒 day job** 
+ ### 🔭  Currently working on
+- **🕒  day job** 
   - the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
-- **🌙 for fun**
+- **🌙  for fun**
   - a Chrome extension details TBA
   - contributing to open source projects
 
- ### 🌱 I’m currently learning
+ ### 🌱 Currently learning
 - Golang
 - continuing to work on my AWS skills
 
-### 💻 skills
+### 💻  skills
 - JavaScript, TypeScript, Java, AWS certified, SQL, NoSQL, Google Cloud, Firebase, database design, project planning
 
-### 👯 I’m looking to collaborate on
+### 👯  I’m looking to collaborate on
 - open to anything that utilizes my skills, but I am passionate about health and medicine
 
 <!-- **🤔 I’m looking for help with:** -->
@@ -27,7 +27,7 @@ I'm a full-stack software engineer in PA, USA. I've got a master's degree in Inf
 ### 📫  How to reach me
 - celandau@gmail.com
 
-### 😄 Pronouns
+### 😄  Pronouns
 - she/her
 
 <!-- **⚡ Fun fact** 
