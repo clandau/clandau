@@ -17,7 +17,7 @@ I'm a full-stack software engineer in PA, USA. I've got a master's degree in Inf
 -->
 
 ### 💻  skills
-- JavaScript, TypeScript, Java, AWS certified, SQL, NoSQL, Google Cloud, Firebase, database design, project planning -->
+- JavaScript, TypeScript, Java, AWS certified, SQL, NoSQL, Google Cloud, Firebase, database design, project planning
 
 <!-- ### 👯  I’m looking to collaborate on
 - open to anything that utilizes my skills, but I am passionate about health and medicine
