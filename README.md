@@ -7,8 +7,8 @@ I'm a full-stack software engineer in PA, USA. I've got a master's degree in Inf
 - **🕒  day job** 
   - the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
 - **🌙  for fun**
-  - a Chrome extension details TBA
   - contributing to open source projects
+  - Hacktoberfest mentoring
   
 <!--
  ### 🌱 Currently learning
