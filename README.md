@@ -7,8 +7,8 @@ I'm a full-stack software engineer in PA, USA. I've got a master's degree in Inf
 - **🕒  day job** 
   - the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
 - **🌙  for fun**
+  = Advent of Code https://github.com/clandau/advent-of-code-2020
   - contributing to open source projects
-  - Hacktoberfest mentoring
   
 <!--
  ### 🌱 Currently learning
