@@ -9,6 +9,7 @@ I'm a full-stack software engineer in PA, USA. I've got a master's degree in Inf
 - **🌙  for fun**
   - Advent of Code https://github.com/clandau/advent-of-code-2020
   - contributing to open source projects
+  - [Copy to Trello Chrome extension](https://chrome.google.com/webstore/detail/copy-to-trello/fdaifolckhmjnlkapifnkphgdolgabfb)
   
 <!--
  ### 🌱 Currently learning
