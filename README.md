@@ -1,15 +1,21 @@
-## Hi 👋 I'm [Courtney](http://celandau.com)!
+<!-- # Hi 👋 I'm [Courtney](http://celandau.com)! -->
+# Hi, 👋  I'm Courtney!
 
-### 😁 About me
+## 😁  About me
 I'm a full-stack software engineer in PA, USA. I've got a master's degree in Information Systems and experience in healthcare and education technology. 
 
-### 🔭  Currently working on
-- **🕒  day job** 
+##  🔭  Currently working on
+### **🕒  day job** 
   - the Learnics platform, a full-stack web application and Chrome Extension using Vue, JavaScript, TypeScript, and Google Cloud
-- **🌙  for fun**
-  - Advent of Code https://github.com/clandau/advent-of-code-2020
+### **🌙  for fun**
+  - [Copy to Trello Chrome extension](https://chrome.google.com/webstore/detail/copy-to-trello/fdaifolckhmjnlkapifnkphgdolgabfb) 
+    - A Chrome extension that allows you to create Trello cards using copied text from the web. 
+    - Chrome APIs, JavaScript, HTML, CSS
+  - [Color fill](http://chilly-teaching.surge.sh/)
+    - A fun project I did to check out Vite with Vue3.
+    - Vue3, TypeScript, CSS animations
+  - Advent of Code https://github.com/clandau/advent-of-code-2020 (TypeScript)
   - contributing to open source projects
-  - [Copy to Trello Chrome extension](https://chrome.google.com/webstore/detail/copy-to-trello/fdaifolckhmjnlkapifnkphgdolgabfb)
   
 <!--
  ### 🌱 Currently learning
