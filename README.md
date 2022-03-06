@@ -3,7 +3,7 @@
 
 ## 😁  About me
 I'm a full-stack software engineer in PA, USA. I've got a master's degree in Information Systems and work primarily on the backend with node.js in TS, JS and postgresql.
-
+<!-- 
 ##  🔭  Currently working on
 ### **🕒  day job** 
   - Software engineer at Shift4
@@ -16,7 +16,7 @@ I'm a full-stack software engineer in PA, USA. I've got a master's degree in Inf
     - A fun project I did to check out Vite with Vue3.
     - Vue3, TypeScript, CSS animations
   - Advent of Code https://github.com/clandau/advent-of-code-2020 (TypeScript)
-  - contributing to open source projects
+  - contributing to open source projects -->
   
 <!--
  ### 🌱 Currently learning
